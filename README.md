@@ -57,11 +57,8 @@ A Video for the whole projects parts:
 
 A step-by-step photes explaining How to use: 
 
-![photo_2022-09-16_09-22-48](https://user-images.githubusercontent.com/88660261/190580771-decaf201-941f-4c8d-8c16-268e238326c9.jpg)
-![photo_2022-09-16_09-22-56](https://user-images.githubusercontent.com/88660261/190580792-728d60f4-bae8-4f73-a4e4-0b3c01b308de.jpg)
-![photo_2022-09-16_09-23-05](https://user-images.githubusercontent.com/88660261/190580816-db868d61-1dd1-4776-a9c4-2aec04f347d1.jpg)
-![photo_2022-09-16_09-23-10](https://user-images.githubusercontent.com/88660261/190580862-0619a869-5bbc-4a60-8b64-fd813542b08c.jpg)
-![photo_2022-09-16_09-23-15](https://user-images.githubusercontent.com/88660261/190580886-e88d8a1b-2e14-45c5-80f8-674f353c771b.jpg)
-![photo_2022-09-16_09-23-25](https://user-images.githubusercontent.com/88660261/190580992-2d1b922f-f158-477e-9b41-ca5eb78b7270.jpg)
+![photo_2022-09-16_09-22-48](https://user-images.githubusercontent.com/88660261/190580771-decaf201-941f-4c8d-8c16-268e238326c9.jpg)![photo_2022-09-16_09-22-56](https://user-images.githubusercontent.com/88660261/190580792-728d60f4-bae8-4f73-a4e4-0b3c01b308de.jpg)
+![photo_2022-09-16_09-23-05](https://user-images.githubusercontent.com/88660261/190580816-db868d61-1dd1-4776-a9c4-2aec04f347d1.jpg) ![photo_2022-09-16_09-23-10](https://user-images.githubusercontent.com/88660261/190580862-0619a869-5bbc-4a60-8b64-fd813542b08c.jpg)
+![photo_2022-09-16_09-23-15](https://user-images.githubusercontent.com/88660261/190580886-e88d8a1b-2e14-45c5-80f8-674f353c771b.jpg) ![photo_2022-09-16_09-23-25](https://user-images.githubusercontent.com/88660261/190580992-2d1b922f-f158-477e-9b41-ca5eb78b7270.jpg)
 ![photo_2022-09-16_09-23-32](https://user-images.githubusercontent.com/88660261/190581000-3a3e34d1-c137-4a9b-8577-ee298aa5452a.jpg)
 ![photo_2022-09-16_09-23-36](https://user-images.githubusercontent.com/88660261/190581019-57aa7f53-6e5e-4a30-b1fb-99b46e48a235.jpg)
