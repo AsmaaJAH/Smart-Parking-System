@@ -20,22 +20,27 @@ https://parking-technology.com/
 
 Lets talk about the installation of the app:
 -this is the app main screen:
+
 ![app output](https://user-images.githubusercontent.com/88660261/190573480-0cea99bf-28c3-4992-ba49-488d9a27c284.PNG)
 
 and this is how the app would look like after installation: 
+
 ![app icon and name after installation](https://user-images.githubusercontent.com/88660261/190573475-b1a1b8a8-59ff-47ec-bdf5-661eac162320.PNG)
+
 ![icon after installation](https://user-images.githubusercontent.com/88660261/190573444-b4d9e202-f56a-4da4-b407-117932566327.jpg)
 
 Emulator for the info-page only:
+
 ![my emulator for the info page only](https://user-images.githubusercontent.com/88660261/190573466-781bcdf7-2cb0-4beb-a3ad-df4e62e311ca.PNG)
 
 A Video for the whole projects parts:
+
  https://youtu.be/gzHzvjWZnJs
 
 A step-by-step photes explaining How to use: 
+
 ![photo_2022-09-16_09-22-48](https://user-images.githubusercontent.com/88660261/190580771-decaf201-941f-4c8d-8c16-268e238326c9.jpg)
 ![photo_2022-09-16_09-22-56](https://user-images.githubusercontent.com/88660261/190580792-728d60f4-bae8-4f73-a4e4-0b3c01b308de.jpg)
-![photo_2022-09-16_09-23-00](https://user-images.githubusercontent.com/88660261/190580805-8d20b093-4a3c-4d8a-a7ea-ab93e9a15469.jpg)
 ![photo_2022-09-16_09-23-05](https://user-images.githubusercontent.com/88660261/190580816-db868d61-1dd1-4776-a9c4-2aec04f347d1.jpg)
 ![photo_2022-09-16_09-23-10](https://user-images.githubusercontent.com/88660261/190580862-0619a869-5bbc-4a60-8b64-fd813542b08c.jpg)
 ![photo_2022-09-16_09-23-15](https://user-images.githubusercontent.com/88660261/190580886-e88d8a1b-2e14-45c5-80f8-674f353c771b.jpg)
