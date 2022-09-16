@@ -5,8 +5,9 @@ This includes the coordination between:
 (AIT systems corporation-The Arab Academy for Science Technology & Maritime Transport-The Information Technology Industry Development Agency (ITIDA) - Alex Uni).
 
 Using:
-=(Flutter WebView, MySQL, PHP, Laravel, WordPress, CCtalk protocol, MQTT protocol, Node-RED) in the SW part 
-=(AWS clouding servers, PV cells, Raspberry Pi, and coin and cash acceptors, additional larger display Screen) in the HW part.
+
+(Flutter WebView, MySQL, PHP, Laravel, WordPress, CCtalk protocol, MQTT protocol, Node-RED) in the SW part 
+(AWS clouding servers, PV cells, Raspberry Pi, and coin and cash acceptors, additional larger display Screen) in the HW part.
 
 My part of it was: 
 -creating a user-friendly mobile app for android and ios in order to provise our services on the play store soon.
