@@ -1,27 +1,36 @@
 # Smart-Parking-System
 This SPS project is a smart parking system team-work project containing both software and hardware parts.
 
+
 This includes the coordination between: 
 
 (AIT systems corporation-The Arab Academy for Science Technology & Maritime Transport-The Information Technology Industry Development Agency (ITIDA) - Alex Uni).
 
+
 Using:
 
 (Flutter WebView, MySQL, PHP, Laravel, WordPress, CCtalk protocol, MQTT protocol, Node-RED) in the SW part 
+
 (AWS clouding servers, PV cells, Raspberry Pi, and coin and cash acceptors, additional larger display Screen) in the HW part.
+
 
 My part of it was: 
 
--creating a user-friendly mobile app for android and ios in order to provise our services on the play store soon.
+-creating a user-friendly mobile app for android and ios in order to provise our services on the play store (scheduled soon).
+
 -the whole project's commercial logo and the graphical designs of banners.
+
+
 
 Kindly, start parking your vechile here:
 
 https://sps.parking-technology.com/
 
+
 Feel free to find out more about system and how to start using it from our official info page here:
 
 https://parking-technology.com/
+
 
 Lets talk about the installation of the app:
 
@@ -39,9 +48,12 @@ Emulator for the info-page only:
 
 ![my emulator for the info page only](https://user-images.githubusercontent.com/88660261/190573466-781bcdf7-2cb0-4beb-a3ad-df4e62e311ca.PNG)
 
+
+
 A Video for the whole projects parts:
 
  https://youtu.be/gzHzvjWZnJs
+
 
 A step-by-step photes explaining How to use: 
 
