@@ -2,6 +2,7 @@
 This SPS project is a smart parking system team-work project containing both software and hardware parts.
 
 This includes the coordination between: 
+
 (AIT systems corporation-The Arab Academy for Science Technology & Maritime Transport-The Information Technology Industry Development Agency (ITIDA) - Alex Uni).
 
 Using:
@@ -10,16 +11,20 @@ Using:
 (AWS clouding servers, PV cells, Raspberry Pi, and coin and cash acceptors, additional larger display Screen) in the HW part.
 
 My part of it was: 
+
 -creating a user-friendly mobile app for android and ios in order to provise our services on the play store soon.
 -the whole project's commercial logo and the graphical designs of banners.
 
 Kindly, start parking your vechile here:
+
 https://sps.parking-technology.com/
 
 Feel free to find out more about system and how to start using it from our official info page here:
+
 https://parking-technology.com/
 
 Lets talk about the installation of the app:
+
 -this is the app main screen:
 
 ![app output](https://user-images.githubusercontent.com/88660261/190573480-0cea99bf-28c3-4992-ba49-488d9a27c284.PNG)
