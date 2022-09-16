@@ -16,7 +16,7 @@ Using:
 
 My part of it was: 
 
--creating a user-friendly mobile app for android and ios in order to provise our services on the play store (scheduled soon).
+-creating a user-friendly mobile app for android and ios in order to provise our services on the play store in the comming few months.
 
 -the whole project's commercial logo and the graphical designs of banners.
 
@@ -27,18 +27,18 @@ Kindly, start parking your vechile here:
 https://sps.parking-technology.com/
 
 
-Feel free to find out more about system and how to start using it from our official info page here:
+Feel free to find out more about the system and how to start using it from our official info-page here:
 
 https://parking-technology.com/
 
 
 Lets talk about the installation of the app:
 
--this is the app main screen:
+This is the app main screen:
 
 ![app output](https://user-images.githubusercontent.com/88660261/190573480-0cea99bf-28c3-4992-ba49-488d9a27c284.PNG)
 
-and this is how the app would look like after installation: 
+And this is how the app would look like after installation: 
 
 ![app icon and name after installation](https://user-images.githubusercontent.com/88660261/190573475-b1a1b8a8-59ff-47ec-bdf5-661eac162320.PNG)
 
