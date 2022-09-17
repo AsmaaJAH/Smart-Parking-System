@@ -58,7 +58,7 @@ A Video for the whole projects parts:
  https://youtu.be/gzHzvjWZnJs
 
 
-A step-by-step photes explaining How to use: 
+A step-by-step photes explaining how to use: 
 
 ![photo_2022-09-16_09-22-48](https://user-images.githubusercontent.com/88660261/190580771-decaf201-941f-4c8d-8c16-268e238326c9.jpg)![photo_2022-09-16_09-22-56](https://user-images.githubusercontent.com/88660261/190580792-728d60f4-bae8-4f73-a4e4-0b3c01b308de.jpg)
 ![photo_2022-09-16_09-23-05](https://user-images.githubusercontent.com/88660261/190580816-db868d61-1dd1-4776-a9c4-2aec04f347d1.jpg) ![photo_2022-09-16_09-23-10](https://user-images.githubusercontent.com/88660261/190580862-0619a869-5bbc-4a60-8b64-fd813542b08c.jpg)
