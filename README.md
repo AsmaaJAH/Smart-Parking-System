@@ -16,7 +16,7 @@ Using:
 
 My part of it was: 
 
--creating a user-friendly mobile app for android and ios in order to provise our services on the play store in the comming few months.
+-creating a user-friendly mobile app for android and ios in order to provide our services on the play store in the comming few months.
 
 -the whole project's commercial logo and the graphical designs of banners.
 
@@ -32,7 +32,10 @@ Feel free to find out more about the system and how to start using it from our o
 https://parking-technology.com/
 
 
-Lets talk about the installation of the app:
+
+Lets talk about installating the app:
+
+*In the above github files, u gonna find my premier app release or prototype*
 
 This is the app main screen:
 
