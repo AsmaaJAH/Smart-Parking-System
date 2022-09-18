@@ -16,7 +16,7 @@ Using:
 
 My part of it was: 
 
--creating a user-friendly mobile app for android and ios in order to provide our services on the play store in the comming few months.
+-creating a user-friendly mobile app for android and ios in order to provide our services on the play store in the coming few months.
 
 -the whole project's commercial logo and the graphical designs of banners.
 
