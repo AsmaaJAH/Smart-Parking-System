@@ -22,7 +22,7 @@ My part of it was:
 
 
 
-Kindly, start parking your vechile here:
+Kindly, start parking your vehicle here:
 
 https://sps.parking-technology.com/
 
